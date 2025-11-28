@@ -1,0 +1,175 @@
+{
+  "result": {
+    "name": "VINOD KR GUPTA",
+    "email": "vinod.ce13@gmail.com",
+    "phone": "+91-7003199218",
+    "skills": [
+      "Project Management (Planning, Monitoring, Controlling)",
+      "Contract Management (Review, Negotiation, Claims, Disputes, EOT)",
+      "Costing",
+      "Team Management",
+      "Resource Planning",
+      "Modern Construction Methodologies",
+      "Quality Standards (IS Codes, IRC Standards, MoRTH Specifications)",
+      "EPC Projects",
+      "HAM Projects",
+      "BOT Projects",
+      "Risk Mitigation",
+      "Budget Management",
+      "Stakeholder Communication",
+      "Regulatory Compliance (Environmental, Safety)",
+      "Project Documentation & Reporting",
+      "Quality Control",
+      "Process Improvement & Value Engineering",
+      "Change-of-Scope (COS) Management",
+      "Invoicing & Payment Process Management",
+      "Arbitration & Dispute Resolution",
+      "MS Office (Word, Excel, PowerPoint)",
+      "AutoCAD",
+      "Project Management Software (MS Project, Primavera, SAP)",
+      "STAAD Pro (Structural Analysis)"
+    ],
+    "experience": [
+      {
+        "company": "H.G. Infra Engineering Limited",
+        "location": "Jharkhand",
+        "position": "Manager-Planning & Contracts",
+        "start_date": "June 2023",
+        "end_date": "till date",
+        "responsibilities": [
+          "Overall Contract Management for 2 projects.",
+          "Pan India In-Charge for preparation and submission of COS (Change-of-Scope)/ Variables and EOT (Extension-of-Time) requests for Highway/ Expressway Projects.",
+          "Assigned to 4 projects (3 under HAM Mode, and 1 under EPC Mode) for the preparation and quantification of contractual claims.",
+          "Actively involved in strategizing for Provisional Certificate of Completion, Completion Certificate and Fore Closure processes.",
+          "Recognized for exceptional performance and relocated from Site Office to Head Office."
+        ],
+        "projects": [
+          {
+            "title": "Construction of 6-lane Greenfield Varanasi-Ranchi-Kolkata Highway (Package 10)",
+            "description": "From Deoria village to Donoreshan village from km 253.000 to km 288.600 under Bharatmala Pariyojana in the State of Jharkhand.",
+            "client": "National Highways Authority of India",
+            "cost": "1303.11 Cr.",
+            "mode": "Hybrid Annuity Mode (HAM)"
+          },
+          {
+            "title": "Construction of 6-lane Greenfield Varanasi-Ranchi-Kolkata Highway (Package 13)",
+            "description": "From junction with NH-320 in Lepo village to Kamlapur village (JH/WB border) from km 358.500 to km 387.200 under Bharatmala Pariyojana in the State of Jharkhand.",
+            "client": "National Highways Authority of India",
+            "cost": "925.11 Cr.",
+            "mode": "Hybrid Annuity Mode (HAM)"
+          }
+        ]
+      },
+      {
+        "company": "Montecarlo Limited",
+        "location": "Maharashtra",
+        "position": "Sr. Engineer-Planning & Contracts",
+        "start_date": "December 2021",
+        "end_date": "May 2023",
+        "projects": [
+          {
+            "title": "Eight lane access-controlled Expressway (Masvan to Ganjad section)",
+            "description": "From Km. 50+700 to Km. 77+000 (Masvan to Ganjad section of Vadodara Mumbai Expressway) in the State of Maharashtra under Bharatmala Pariyojana Phase-II Package-XII.",
+            "client": "National Highways Authority of India",
+            "cost": "1549.02 Cr.",
+            "mode": "Hybrid Annuity Mode (HAM)"
+          }
+        ]
+      },
+      {
+        "company": "Solapur Tollways Pvt. Ltd.",
+        "location": "Maharashtra",
+        "position": "Asst. Manager-Planning & Contracts",
+        "start_date": "June 2018",
+        "end_date": "December 2021",
+        "projects": [
+          {
+            "title": "Four Laning of Solapur to Maharashtra/ Karnataka Border Section of NH-9",
+            "description": "(Km. 249+000) to Maharashtra/ Karnataka Border (Km. 348+800) Section of NH-9 (Design Length-100.05 Km) in Maharashtra under NHDP Phase-III.",
+            "client": "National Highways Authority of India",
+            "cost": "882.62 Cr.",
+            "mode": "Design Build Finance Operate & Transfer (DBFOT)"
+          }
+        ]
+      },
+      {
+        "company": "Ramky Infrastructure Limited",
+        "location": "Jharkhand",
+        "position": "Dy. Manager-Planning & QS",
+        "start_date": "July 2017",
+        "end_date": "June 2018",
+        "projects": [
+          {
+            "title": "Four laning of Barhi-Hazaribagh section of NH-33",
+            "description": "(00+000 to 40+500) in the State of Jharkhand under NHDP Phase-III.",
+            "client": "National Highways Authority of India",
+            "cost": "336.60 Cr.",
+            "mode": "Engineering Procurement & Construction (EPC)"
+          }
+        ]
+      },
+      {
+        "company": "Ramky Infrastructure Limited",
+        "location": "Chhattisgarh",
+        "position": "Asst. Manager-Planning & QS",
+        "start_date": "August 2016",
+        "end_date": "July 2017",
+        "projects": [
+          {
+            "title": "Two/ Four laning of Masania Kala-Rengalpali, Odisha border section of NH-49(200)",
+            "description": "(216+334 to 276+786) in the State of Chhattisgarh under NHDP Phase-IV.",
+            "client": "National Highways Authority of India",
+            "cost": "452.00 Cr.",
+            "mode": "Engineering Procurement & Construction (EPC)"
+          }
+        ]
+      },
+      {
+        "company": "RSA Infra",
+        "location": "Chhattisgarh",
+        "position": "Site Engineer",
+        "start_date": "March 2015",
+        "end_date": "August 2016",
+        "projects": [
+          {
+            "title": "Rehabilitation and up gradation of Lormi-Mungeli Road (SH-10)",
+            "description": "In the State of Chhattisgarh.",
+            "client": "PWD-Mungeli",
+            "cost": null,
+            "mode": null
+          }
+        ]
+      },
+      {
+        "company": "RSA Infra",
+        "location": "Chhattisgarh",
+        "position": "Jr. Engineer",
+        "start_date": "April 2013",
+        "end_date": "March 2015",
+        "projects": [
+          {
+            "title": "Rehabilitation and up gradation of Dhanagar-Bhupdevpur (SH)",
+            "description": "In the State of Chhattisgarh.",
+            "client": "PWD-Raigarh",
+            "cost": null,
+            "mode": null
+          }
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "B. Tech in Civil Engineering",
+        "institution": "BPUT",
+        "year": "2013",
+        "score": "72%"
+      },
+      {
+        "degree": "MBA in Project & Construction Management",
+        "institution": "IIBM",
+        "year": "2023",
+        "score": "73%"
+      }
+    ]
+  }
+}
