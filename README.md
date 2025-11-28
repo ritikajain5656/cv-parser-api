@@ -25,11 +25,5 @@ This is a **FastAPI** project that extracts information from CVs/PDF resumes usi
 
 [Download Sample Output JSON](response_1764305345072.json)
 
----
 
-## How to Run
 
-1. Clone the repository:  
-   ```bash
-   git clone git@github.com:ritikajain5656/cv-parser-api.git
-   cd cv-parser-api
