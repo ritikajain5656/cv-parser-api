@@ -1,24 +1,22 @@
+# FastAPI CV Parser
+
+This repository contains a FastAPI application that extracts information from PDF CVs using Gemini models.
+
 ## PDF Extraction Output
 
-Here are examples of the PDF extraction results:
+Examples of parsed CVs:
 
-### Screenshot 1
-![Output 1.1](screenshots/1.1.png)
+![Output 1.1](Screenshots/1.1.png)  
+![Output 1.2](Screenshots/1.2.png)  
+![Output 1.3](Screenshots/1.3.png)  
+![Output 1.4](Screenshots/1.4.png)  
+![Output 1.5](Screenshots/1.5.png)  
 
-### Screenshot 2
-![Output 1.2](screenshots/1.2.png)
+Download a sample JSON output of a parsed CV:  
+[Sample Output JSON](response_1764305345072.json)
 
-### Screenshot 3
-![Output 1.3](screenshots/1.3.png)
+## Usage
 
-### Screenshot 4
-![Output 1.4](screenshots/1.4.png)
-
-### Screenshot 5
-![Output 1.5](screenshots/1.5.png)
-
----
-
-You can also download a sample JSON output of the parsed CV:
-
-[Download Sample Output JSON](examples/response_1764305345072.json)
+1. Clone the repository:
+   ```bash
+   git clone <repo-url>
